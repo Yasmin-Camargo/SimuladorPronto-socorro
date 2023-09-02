@@ -29,12 +29,12 @@ Este simulador permite a personalização de várias configurações para ajusta
 Dessa forma, é possível explorar diferentes cenários e avaliar o funcionamento do pronto-socorro em várias situações. Vale ressaltar, que este trabalho foi desenvolvido exclusivamente para fins educacionais, permitindo a compreensão de conceitos relacionados a sistemas operacionais e escalonamento de recursos.
 
 ## Exemplo de Execução do Simulador:
-![Alt text](image-3.png)
+![Alt text](include/image-3.png)
 
 ...
 
-![Alt text](image-2.png)
-![Alt text](image-1.png)
+![Alt text](include/image-2.png)
+![Alt text](include/image-1.png)
 
 ## Como Usar
 
