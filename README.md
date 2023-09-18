@@ -1,6 +1,6 @@
 # :hospital: :sos: Simulador de Pronto-Socorro Respiratório
 
-Este projeto de Sistemas Operacionais foi desenvolvido em colaboração com [@Yasmin-Camargo](https://github.com/Yasmin-Camargo) e [@BiancaBDullius](https://github.com/BiancaBDullius) e simula uma ala de pronto-socorro dedicada ao tratamento de pacientes com problemas respiratórios. Nele, cada paciente e médico são representados como threads.
+Este projeto de Sistemas Operacionais foi desenvolvido em colaboração com [@Caroline-Camargo](https://github.com/Caroline-Camargo) e [@BiancaBDullius](https://github.com/BiancaBDullius) e simula uma ala de pronto-socorro dedicada ao tratamento de pacientes com problemas respiratórios. Nele, cada paciente e médico são representados como threads.
 
 
 ## Funcionalidades Principais
